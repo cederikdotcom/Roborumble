@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Roborumble</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Roborumble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>RoboRumble: XR Tele-Steered Humanoid Robots</title>
+      <link>/posts/hello/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>&lt;p&gt;An immersive experience where participants remotely control humanoid robots in a high-energy, XR-enhanced arena. RoboRumble blends strategy, skill, and engineering in an interactive environment that feels like a live sports event—reimagined with technology.&lt;/p&gt;
+&lt;p&gt;Concept Highlights:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Humanoid Robot Design and Customization&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Participants use modular humanoid robots that can be customized with a range of “abilities” like agility, speed, or defensive features. This lets players craft unique personalities and approaches for their robots.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;XR-Enhanced Tele-Steering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through VR headsets, controllers, and haptic feedback, participants experience the sensation of being “inside” their robots. This first-person view offers real-time visuals and stats for total situational awareness, making every move feel immersive and engaging.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Dynamic Arena with Real-Time Interaction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The XR arena adds layers of strategy, with obstacles, virtual barriers, and safe “challenge zones” that create an evolving environment. Real-world elements, like moving platforms or soft impact zones, blend with digital overlays to add depth without danger.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Skill-Based Scoring System&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Matches are won by points, rewarding finesse, strategy, and well-timed moves rather than simple takedowns. Points are awarded for achievements like tagging, maneuvering through obstacles, or completing objectives, focusing on skill and creativity.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Community and Spectator Engagement&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Fans and spectators join the experience through AR/XR, seeing the competition up-close with stats, replays, and even interactive “cheering” features. A global leaderboard and community-driven challenges bring people together for continuous engagement and friendly competition.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
